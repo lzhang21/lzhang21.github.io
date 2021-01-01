@@ -79,10 +79,16 @@ figure {
     background-image: url("/img/thunderstorm.jpeg");
     background-size: cover;
     color: teal;
+    border-radius: 0px; /* makes the sharp edge */
 }
 
+.padding{
+    text-align: center;
+}
 
-
+.schoologo{
+    width: 40%
+}
 
 
 /*
